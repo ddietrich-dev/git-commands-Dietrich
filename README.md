@@ -38,7 +38,7 @@ git pull
 
 ## git remote
 manages the connection between my local folder an the online server
-```
+```bash
 git remote
 ``` 
 
