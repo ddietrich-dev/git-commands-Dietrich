@@ -42,3 +42,6 @@ manages the connection between my local folder an the online server
 git remote
 ``` 
 
+## summary
+git is a great help for me to save my changes and share them with others
+
